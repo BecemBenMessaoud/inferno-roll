@@ -12,7 +12,7 @@ const TwoImages = () => {
     <section className="twoimages">
       <div className="twoimages-container">
         {/* Images */}
-        <img src="/images/states1.png" alt="Map" className="left-img" />
+        <img src="/images/statesFinal.png" alt="Map" className="left-img" />
         <img src="/images/expand.png" alt="Expanded" className="right-img" />
 
         {/* Cards */}

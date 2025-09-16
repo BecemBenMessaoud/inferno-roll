@@ -5,7 +5,7 @@ const Afterbefore = () => {
   return (
      <section className="afterbefore">
       <div className="afterbefore-container centered-image">
-        <img src="/images/after-before.png" alt="After and Before" />
+        <img src="/images/before_after.png" alt="After and Before" />
       </div>
     </section>
   );
