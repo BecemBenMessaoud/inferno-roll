@@ -42,8 +42,8 @@
 .logo-title {
   margin: 0; /* supprime la marge par défaut */
   margin-top: 0px; /* espace minimal entre logo et titre */
-  font-size: 0.3rem; /* titre plus petit */
-  font-weight: 500;
+  font-size: 0.8rem; /* titre plus petit */
+  font-weight: 400;
   color: #000000;
   text-align: center;
 }
